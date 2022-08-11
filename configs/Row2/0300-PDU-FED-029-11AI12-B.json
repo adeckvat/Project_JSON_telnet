@@ -1,0 +1,31 @@
+{
+    "devices": {
+        "data": [
+            {
+                "attributes": {
+                    "device_id": 1,
+                    "name": "0300-PDU-FED-029-11AI12-B",
+                    "location": "Saint-Petersburg, MDC",
+                    "region": "Leningrad region",
+                    "install_date": "2021-03-30"
+                }
+            }
+        ]
+    },
+    "network_smtp": {
+        "data": [
+            {
+                "attributes": {
+                    "auth_required": false,
+                    "from_address": "0300-PDU-FED-029-11AI12-B@nw.mts.ru",
+                    "host": "10.16.166.195",
+                    "port": 25,
+                    "status": true,
+                    "security": "SECURITY_NONE",
+                    "subject": "PowerAlert Notification",
+                    "user": ""
+                }
+            }
+        ]
+    }
+}
